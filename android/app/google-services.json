@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953202985738",
+    "firebase_url": "https://masterji-19f75.firebaseio.com",
+    "project_id": "masterji-19f75",
+    "storage_bucket": "masterji-19f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953202985738:android:9ee42969c79d7269f7c8f3",
+        "android_client_info": {
+          "package_name": "online.masterji.honchiSolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953202985738-s0ua3vimomp410u2mfgrbb56ovors2dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkzzO9dimUOmxb6vAPQmxcERAL_zIzQ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953202985738-s0ua3vimomp410u2mfgrbb56ovors2dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+    "commentData":"comment",
+    "bookingDate":"fgg",
+    "bookingTime":"ghgh",
+    "phoneNumber":"98765",
+    "orderDate":"fgfg",
+    "orderID":"fdg",
+    "currentStatus":"1",
+    
+    "address":{
+"address":"dfgd",
+"building":"cvh",
+"city":"new delhi",
+"houseNo":"thh",
+"landmark":"ghj"
+             },
+"orderdetails":
+[
+    {
+        "pricing": {
+            "alter_price": 100,
+            "stitch_price": 200,
+            "total_price": 250,
+            "add_on_price": 50
+        },
+        "garmentId": "sdsdsdsd",
+        "stitching_category": [
+            {
+                "category": "Stitch Type",
+                "sub_category": "With Lining",
+                "price": 60
+            },
+            {
+                "category": "Stitch Type",
+                "sub_category": "Without Lining",
+                "price": 50
+            }
+        ],
+        "garment_details": {
+            "icon": "",
+            "garment_type": "Shirt",
+            "category": "FEMALE"
+        },
+        "selected_category": [
+            {
+                "category": "Stitch Type",
+                "sub_category": "With Lining",
+                "price": 60
+            }
+        ]
+    }
+]}
