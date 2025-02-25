@@ -1,6 +1,54 @@
-# masterji user app
+# Masterji App
 
-## bugs
+![Masterji Banner](/banner.png)
+
+Masterji App is a Flutter application built with Dart that serves as an innovative educational platform. This project is open-source and designed to deliver an exceptional user experience.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Installation](#installation)
+- [Build Information](#build-information)
+- [Additional Information](#additional-information)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+Masterji App leverages Flutter to provide a robust, cross-platform educational tool. The app is continually updated with new features and improvements. Whether you're a developer looking to contribute or a user eager to explore, this repository is your starting point.
+
+## Installation
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- An IDE such as [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
+
+### Steps
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Mohammad-Sahil/masterji-app.git
+   cd masterji-app
+   ```
+
+2. **Install Dependencies:**
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the App:**
+
+   ```bash
+   flutter run
+   ```
+
+## Bugs, TODOs and KEYs
+
+### bugs
 
 1. ios splash screen (need to verify)
 2. language choose ripple effect (done)
@@ -8,7 +56,7 @@
 4. toast on false otp response (done)
 5. maps in ios (permission and keys) (will be done during ios build)
 
-## TODO PRODUCTION
+### TODO PRODUCTION
 
 1. package change (android done)
 2. MAPS API KEY (done)
@@ -17,7 +65,7 @@
 5. firebase account connect (done)
 6. apply coupen (not in scope)
 
-## KEYS
+### KEYS
 
 ```
 keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
@@ -96,8 +144,25 @@ canvas.drawRRect(kMaterialEdges[MaterialType.card].toRRect(rect), paint);
 ```
 
 
-##done 
+### done 
+
 1. accept html data in customisation page 
 2. what we do -remove
 3. analylitics create service file (analytics_service) and use it in main file and locator
 
+
+## Build Information
+
+For the latest build of the Masterji App, please visit our [Aptoide Build Page](https://masterji-masterji.en.aptoide.com/app).
+
+## Additional Information
+
+For more detailed information about the project, please refer to our [Firebase Info Page](https://masterji-19f75.firebaseapp.com/).
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes. For major changes, open an issue first to discuss your ideas.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
