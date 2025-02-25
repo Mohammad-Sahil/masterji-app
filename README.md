@@ -2,7 +2,7 @@
 
 ![Masterji Banner](/banner.png)
 
-Masterji App is a Flutter application built with Dart that serves as an innovative educational platform. This project is open-source and designed to deliver an exceptional user experience.
+Masterji App is a Flutter application built with Dart that serves as an innovative tailoring application. This project aims to show my contributin to it.
 
 ## Table of Contents
 
@@ -15,7 +15,15 @@ Masterji App is a Flutter application built with Dart that serves as an innovati
 
 ## Overview
 
-Masterji App leverages Flutter to provide a robust, cross-platform educational tool. The app is continually updated with new features and improvements. Whether you're a developer looking to contribute or a user eager to explore, this repository is your starting point.
+MasterJi is a bespoke tailoring app offering custom-stitched clothing and alterations with a hassle-free experience. With just three simple steps, users can design their garments, specify preferences, and enjoy free pickup and delivery within the city. A team of expert tailors ensures a perfect fit for all body types, covering Daily Wear to Bridal Wear. The app features easy measurement input, design selection, and voice-note instructions for precision.
+
+## Key Features
+
+- ✔ Sign Up/Register
+- ✔ Pinpoint your location
+- ✔ Browse trending styles
+- ✔ Choose a design or customize your own
+- ✔ Get a personal tailor at your doorstep
 
 ## Installation
 
